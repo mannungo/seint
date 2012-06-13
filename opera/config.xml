@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="search-events-in-text">
+	<name>Search events in Text and redirect to Google Calendar</name>
+	<description>Search events in text and redirect to Google Calendar.</description>
+	<description>Search events in text and redirect to Google Calendar.</description>
+	<author>Manuel Ortega (@mannungo)</author>
+	<icon src="icon.png"/>
+</widget>
